@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou TAUANA DE PAULA OLIVEIRA</h1>
 <h3 align="center">Meu perfil</h3>
 
-- 🌱 Atualmente estou aprendendo **aprofundar no JavaScript, Frameworks Front-End, Back-End mais completoBanco de Dados avançado.**
+- 🌱 Atualmente estou aprendendo JavaScript, Frameworks Front-End, Back-End eBanco de Dados avançado.
 
 - 📫 Como me contatar **otauana125@gmail.com**
 
